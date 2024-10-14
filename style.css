@@ -4,13 +4,13 @@ body {
   background-color: #f0f0f0;
   font-family: Arial, sans-serif;
   color: #333;
-  text-align: center;
+  text-align: justify;
   margin: 0;
   padding: 20px;
 }
 
 h1 {
-  color: #007acc;
+  color: 'black';
   font-size: 36px;
   margin-bottom: 10px;
 }
